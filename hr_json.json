@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Justin Foxx",
+        "Phone": "+221771889656",
+        "Email": "justin@gmail.com",
+        "LatLon": "14.1881818,-17.0919919",
+        "Salary": "350000",
+        "Age": "28"
+    },
+    {
+        "Name": "Fabiola Manie",
+        "Phone": "+221761889856",
+        "Email": "fabiola@gmail.com",
+        "LatLon": "14.1881818,-17.0919919",
+        "Salary": "650000",
+        "Age": "25"
+    },
+    {
+        "Name": "Marius Mana",
+        "Phone": "+22997189656",
+        "Email": "marius@gmail.com",
+        "LatLon": "15.1881818,-28.0919919",
+        "Salary": "550000",
+        "Age": "38"
+    },
+    {
+        "Name": "Fabien Garcias",
+        "Phone": "+22965169251",
+        "Email": "fabien@gmail.com",
+        "LatLon": "24.1881818,-27.0919919",
+        "Salary": "850000",
+        "Age": "22"
+    }
+]
