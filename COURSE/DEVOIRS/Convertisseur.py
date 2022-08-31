@@ -9,7 +9,6 @@ class Convertisseur_Devise:
         response = requests.get(url)
         data = response.text
         taux = json.loads(data)
-        print(self.taux)
  
     def convertir(self, devise_initiale, devise_finale, montant):
         initial_montant = montant
